@@ -1,0 +1,9 @@
+hola
+456
++ - * /
+584sa
+/*COMENTARIO NO VALIDO1*/
+abc12 //COMENTARIO NO VALIDO2
+> >= < <= = == !=
+( ) [ ] , ; { }
+while if for
